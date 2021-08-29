@@ -5,6 +5,7 @@ public class Student {
 	private String sex11;
 
     public Student() {
+		soutdev;
     }
 
     public Student(Integer id, String name) {
